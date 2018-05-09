@@ -1,0 +1,41 @@
+/*tag*/
+
+.tag2 {
+    display:inline-block;
+    width : auto;
+    height: auto;
+    font-size:15px;
+    margin: 2px;
+    padding : 3px;
+    margin-bottom : 5px;
+    border-radius: 10px;
+    background-color: #D0E6FF;
+    border : 2px solid #E3EFFF;
+    color :  #01335b;
+    white-space: normal;
+    /*-moz-box-shadow:    inset 0 0 10px #000000;*/
+    /*-webkit-box-shadow: inset 0 0 10px #000000;*/
+    /*box-shadow:         inset 0 0 10px #9fd9ff;*/
+}
+.tag2:hover{
+	background : #E3EFFF;
+	color : #632424;
+}
+.tag2 a:hover{
+	color : #E2B41B;
+		background : #E3EFFF;
+}
+
+.tag {
+    border-radius: 5px;
+    padding : 5px;
+    margin-right : 10px;
+    /*background-color: #01335b;*/
+    background-color : #d3d7cf;
+    /*color :  #01335b;*/
+    float:left;
+    /*-moz-box-shadow:    inset 0 0 10px #000000;*/
+    /*-webkit-box-shadow: inset 0 0 10px #000000;*/
+    /*box-shadow:         inset 0 0 10px #9fd9ff;*/
+
+}
